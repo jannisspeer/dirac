@@ -1,0 +1,5 @@
+{
+    "profile_name": "dirac",
+    "global_profile": ["system-wide", "user-specific"],
+    "OutputSandbox_dir": ""
+}
